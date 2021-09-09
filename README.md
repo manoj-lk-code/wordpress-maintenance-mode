@@ -6,7 +6,7 @@ How to GET STARTED and
 - Download the latest version of the ZIP file.
 - Extract it into your wordpress installation directory.
 
-This should enough. There's also a chance that the extracted file will generate a new folder called wordpress-maintenance-mode-main. Simply relocate/move all files in this folder to the wordpress installation directory in such circumstances.
+This should be enough. There's also a chance that the extracted file will generate a new folder called wordpress-maintenance-mode-main. Simply relocate/move all files in this folder to the wordpress installation directory in such circumstances.
 
 # How to Disable Wordpress maintenance mode?
 - Rename .maintenance file to .maintenance-old
