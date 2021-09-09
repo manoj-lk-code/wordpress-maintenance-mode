@@ -1,5 +1,5 @@
 # Wordpress-maintenance-mode
-This is handy in instances where you don't want to use any additional plugins to put a WordPress site on maintenance. This code utilized the WordPress default upgrade maintenance with a custom maintenance template.
+This is handy in instances where you don't want to use any additional plugins to put a WordPress site on maintenance. This code utilized the WordPress default upgrade maintenance code with a custom maintenance html template.
 
 How to GET STARTED and
 # Enable Wordpress maintenance mode?
