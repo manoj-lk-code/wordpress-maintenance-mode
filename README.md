@@ -14,3 +14,6 @@ This should enough. There's also a chance that the extracted file will generate 
 
 # Note
 - If you don't see maintenance mode when you visit the site, it probably because of the cache. 
+
+![image](https://user-images.githubusercontent.com/81701675/132624480-36e9475e-c8e3-4353-8529-23ba74127137.png)
+
