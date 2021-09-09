@@ -11,3 +11,6 @@ This should enough. There's also a chance that the extracted file will generate 
 # How to Disable Wordpress maintenance mode?
 - Rename .maintenance file to .maintenance-old
 
+
+# Note
+- If you don't see maintenance mode when you visit the site, it probably because of the cache. 
