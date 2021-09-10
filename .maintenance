@@ -1,4 +1,3 @@
 <?php
  $upgrading = time();
- http_response_code(503);
 ?>
