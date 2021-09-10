@@ -7,6 +7,7 @@
 <!doctype html>
 
 <head>
+ <title>Site Maintenance</title>
 <style>
   body { text-align: center; padding-top: 150px; }
   body { font: 18px Segoe UI, sans-serif; color: #000000; background-color: #f6f8fa; }
